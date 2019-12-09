@@ -249,34 +249,4 @@
             "Municipio": "Alzira",
             "RefCatastral": "2079901YJ2327N0329WU",
             "CategoriaActivo": "Plaza de garaje"
-        },{
-            "IdActivo": 2153,
-            "TipoActivo": "Inmobiliario",
-            "ModeloGestion": "Esparta",
-            "Servicer": "SAREB REO",
-            "PerimetroOperativo": "Activo Singular",
-            "Territorial": "Noroeste",
-            "Municipio": "Jávea\/Xàbia",
-            "RefCatastral": "4372807BC5947S0082XB",
-            "CategoriaActivo": "Plaza de garaje"
-        },{
-            "IdActivo": 2236,
-            "TipoActivo": "Inmobiliario",
-            "ModeloGestion": "Íbero",
-            "Servicer": "Servihabitat",
-            "PerimetroOperativo": "No identificado",
-            "Territorial": "Sur",
-            "Municipio": "Zaragoza",
-            "RefCatastral": "4533776XM7143D0008LU",
-            "CategoriaActivo": "Vivienda (Libre primera residencia)"
-        },{
-            "IdActivo": 2423,
-            "TipoActivo": "Inmobiliario",
-            "ModeloGestion": "Íbero",
-            "Servicer": "Servihabitat",
-            "PerimetroOperativo": "No identificado",
-            "Territorial": "Noroeste",
-            "Municipio": "Alfara del Patriarca",
-            "RefCatastral": "5004208YJ2850S0234SQ",
-            "CategoriaActivo": "Plaza de garaje"
         }]}
