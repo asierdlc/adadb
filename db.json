@@ -239,14 +239,4 @@
             "Municipio": "Carcaixent",
             "RefCatastral": "88989C0YJ2289N0001MY",
             "CategoriaActivo": "Suelo urbano (Consolidado)"
-        },{
-            "IdActivo": 2146,
-            "TipoActivo": "Inmobiliario",
-            "ModeloGestion": "Íbero",
-            "Servicer": "Servihabitat",
-            "PerimetroOperativo": "No identificado",
-            "Territorial": "Noroeste",
-            "Municipio": "Alzira",
-            "RefCatastral": "2079901YJ2327N0329WU",
-            "CategoriaActivo": "Plaza de garaje"
         }]}
