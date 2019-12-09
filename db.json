@@ -279,14 +279,4 @@
             "Municipio": "Alfara del Patriarca",
             "RefCatastral": "5004208YJ2850S0234SQ",
             "CategoriaActivo": "Plaza de garaje"
-        },{
-            "IdActivo": 2441,
-            "TipoActivo": "Inmobiliario",
-            "ModeloGestion": "Íbero",
-            "Servicer": "Servihabitat",
-            "PerimetroOperativo": "No identificado",
-            "Territorial": "Noroeste",
-            "Municipio": "Borriana\/Burriana",
-            "RefCatastral": "3302102YK5230S0001WU",
-            "CategoriaActivo": "Suelo urbanizable (Ordenado)"
         }]}
