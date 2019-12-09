@@ -9,7 +9,7 @@
             "Municipio": "Sanxenxo",
             "RefCatastral": "36051A025003120000FP",
             "CategoriaActivo": "Suelo urbanizable (Delimitado)"
-        }, {
+        },{
             "IdActivo": 89,
             "TipoActivo": "Inmobiliario",
             "ModeloGestion": "Íbero",
@@ -19,4 +19,184 @@
             "Municipio": "Valladolid",
             "RefCatastral": "4212040UM5141A0545DG",
             "CategoriaActivo": "Trastero"
+        },{
+            "IdActivo": 91,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Solvia",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Gestión directa",
+            "Municipio": "Sanxenxo",
+            "RefCatastral": "36051A025003060000FY",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
+        },{
+            "IdActivo": 213,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Solvia",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Gestión directa",
+            "Municipio": "Santiago de Compostela",
+            "RefCatastral": "0316501NH4501E0000QM",
+            "CategoriaActivo": "Finca rústica (Resto de fincas rústicas)"
+        },{
+            "IdActivo": 218,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Solvia",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Gestión directa",
+            "Municipio": "Logroño",
+            "RefCatastral": "5917603WN4051N0012IY",
+            "CategoriaActivo": "Local comercial"
+        },{
+            "IdActivo": 587,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Gestión directa",
+            "Municipio": "Cizur",
+            "RefCatastral": "31076110054010010000",
+            "CategoriaActivo": "Local comercial"
+        },{
+            "IdActivo": 607,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Solvia",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "No encontrado",
+            "Municipio": "Valladolid",
+            "RefCatastral": "4212040UM5141A0090TU",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 964,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Sagunto\/Sagunt",
+            "RefCatastral": "46222A033002870000JG",
+            "CategoriaActivo": "Finca rústica (Resto de fincas rústicas)"
+        },{
+            "IdActivo": 1017,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Noroeste",
+            "Municipio": "Vilamarxant",
+            "RefCatastral": "3692975YJ0739S0001AK",
+            "CategoriaActivo": "Vivienda (Libre segundaresidencia)"
+        },{
+            "IdActivo": 1165,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Centro",
+            "Municipio": "Rute",
+            "RefCatastral": "14058A026004680001PI",
+            "CategoriaActivo": "Otras edificaciones"
+        },{
+            "IdActivo": 1253,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "6967101XH6066N0109MX",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 1373,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Noroeste",
+            "Municipio": "Moncofa",
+            "RefCatastral": "4686101YK4048N0249WZ",
+            "CategoriaActivo": "Trastero"
+        },{
+            "IdActivo": 1458,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "3042605XG8934S0001YR",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
+        },{
+            "IdActivo": 1461,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Aelca",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "No encontrado",
+            "Municipio": "Valdemoro",
+            "RefCatastral": "0781503VK4408S0001QZ",
+            "CategoriaActivo": "Suelo urbano (No consolidado)"
+        },{
+            "IdActivo": 1808,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Mula",
+            "RefCatastral": "2915034XH3121N0021QI",
+            "CategoriaActivo": "Vivienda (Protegida)"
+        },{
+            "IdActivo": 1816,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Vilallonga\/Villalonga",
+            "RefCatastral": "2083719YJ4028S0027IU",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 1901,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Vila-real",
+            "RefCatastral": "7148216YK4274N0060HB",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 1917,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "2329001XG8922N0001SR",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
+        },{
+            "IdActivo": 1936,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Noroeste",
+            "Municipio": "Dénia",
+            "RefCatastral": "5322709BD4052S0041YY",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 1948,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Mula",
+            "RefCatastral": "30029A047004160000PF",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
         }]}
