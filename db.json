@@ -199,4 +199,304 @@
             "Municipio": "Mula",
             "RefCatastral": "30029A047004160000PF",
             "CategoriaActivo": "Suelo urbanizable (Delimitado)"
+        },{
+            "IdActivo": 1998,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Orihuela",
+            "RefCatastral": "7596501XG9979N0018EI",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 2005,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Alzira",
+            "RefCatastral": "2079901YJ2327N0328QY",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2083,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Villanueva del Río Segura",
+            "RefCatastral": "8012409XH4281S0039ME",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 2089,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Carcaixent",
+            "RefCatastral": "88989C0YJ2289N0001MY",
+            "CategoriaActivo": "Suelo urbano (Consolidado)"
+        },{
+            "IdActivo": 2146,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Alzira",
+            "RefCatastral": "2079901YJ2327N0329WU",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2153,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Noroeste",
+            "Municipio": "Jávea\/Xàbia",
+            "RefCatastral": "4372807BC5947S0082XB",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2236,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Sur",
+            "Municipio": "Zaragoza",
+            "RefCatastral": "4533776XM7143D0008LU",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 2423,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Alfara del Patriarca",
+            "RefCatastral": "5004208YJ2850S0234SQ",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2441,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Borriana\/Burriana",
+            "RefCatastral": "3302102YK5230S0001WU",
+            "CategoriaActivo": "Suelo urbanizable (Ordenado)"
+        },{
+            "IdActivo": 2476,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "2334201XG8923S0001UY",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
+        },{
+            "IdActivo": 2532,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Sur",
+            "Municipio": "Zaragoza",
+            "RefCatastral": "6516607XM7161F0028TD",
+            "CategoriaActivo": "Vivienda (Protegida)"
+        },{
+            "IdActivo": 2607,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Peníscola\/Peñíscola",
+            "RefCatastral": "80190J1BE7781N0001LT",
+            "CategoriaActivo": "Suelo urbano (No consolidado)"
+        },{
+            "IdActivo": 2638,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Torre-Pacheco",
+            "RefCatastral": "30037A019007420001IP",
+            "CategoriaActivo": "Suelo urbanizable (Ordenado)"
+        },{
+            "IdActivo": 2673,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Benifaió",
+            "RefCatastral": "2421115YJ2522S0008TI",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2708,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Xirivella",
+            "RefCatastral": "0308406YJ2700N0004ZP",
+            "CategoriaActivo": "Nave industrial"
+        },{
+            "IdActivo": 2772,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "València",
+            "RefCatastral": "3430701YJ2733A0670OL",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2873,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Moncofa",
+            "RefCatastral": "4686101YK4048N0361AU",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2953,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "5870001XH6057S0026XT",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 2970,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Puig de Santa Maria, el",
+            "RefCatastral": "3951401YJ3835S0001SF",
+            "CategoriaActivo": "Suelo urbano (Consolidado)"
+        },{
+            "IdActivo": 3020,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Vila-real",
+            "RefCatastral": "7148216YK4274N0058JZ",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 3116,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Verger, el",
+            "RefCatastral": "9656601BD3095N0001OW",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
+        },{
+            "IdActivo": 3238,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Alzira",
+            "RefCatastral": "2079901YJ2327N0303TP",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 3388,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Verger, el",
+            "RefCatastral": "1237067BD4003S0001RZ",
+            "CategoriaActivo": "Suelo urbano (Consolidado)"
+        },{
+            "IdActivo": 3500,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Puçol",
+            "RefCatastral": "1396201YJ3819N0187EH",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 3535,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Noroeste",
+            "Municipio": "Jávea\/Xàbia",
+            "RefCatastral": "4372807BC5947S0065AO",
+            "CategoriaActivo": "Plaza de garaje"
+        },{
+            "IdActivo": 3621,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Esparta",
+            "Servicer": "SAREB REO",
+            "PerimetroOperativo": "Activo Singular",
+            "Territorial": "Noroeste",
+            "Municipio": "Dénia",
+            "RefCatastral": "5322709BD4052S0046AA",
+            "CategoriaActivo": "Vivienda (Libre primera residencia)"
+        },{
+            "IdActivo": 3643,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Torre-Pacheco",
+            "RefCatastral": "1492002XG8719A0001EG",
+            "CategoriaActivo": "Suelo urbano (Consolidado)"
+        },{
+            "IdActivo": 3675,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Peníscola\/Peñíscola",
+            "RefCatastral": "80190A0BE7781N0001KT",
+            "CategoriaActivo": "Suelo urbano (Consolidado)"
+        },{
+            "IdActivo": 3983,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "8838101XG6983N0136ZR",
+            "CategoriaActivo": "Suelo urbano (Consolidado)"
+        },{
+            "IdActivo": 3996,
+            "TipoActivo": "Inmobiliario",
+            "ModeloGestion": "Íbero",
+            "Servicer": "Servihabitat",
+            "PerimetroOperativo": "No identificado",
+            "Territorial": "Noroeste",
+            "Municipio": "Murcia",
+            "RefCatastral": "2229302XG8922N0001KR",
+            "CategoriaActivo": "Suelo urbanizable (Delimitado)"
         }]}
